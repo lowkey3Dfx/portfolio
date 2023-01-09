@@ -15,8 +15,8 @@ export const attributes = {
     },
     typed: [
       { text: 'fast websites.' },
-      { text: 'beautiful logos.' },
-      { text: 'great experiences.' },
+      { text: 'amazing renderings.' },
+      { text: 'awsome animations.' },
     ],
   },
   about: {
