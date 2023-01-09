@@ -6,7 +6,7 @@ export const attributes = {
       text: 'My work',
     },
     heading: "I'm Arif Kesdiren, and I create",
-    image: '/img/hero.jpeg',
+    image: '/img/hero.png',
     secondButton: { icon: 'whatsapp', link: '/#contact', text: 'Contact' },
     social: {
       facebook: { link: 'https://facebook.com', show: true },
